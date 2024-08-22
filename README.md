@@ -1,7 +1,7 @@
 # Hur Raza Merchant
 
 # 💫 About Me:
-Final year BSCS student with a passion for coding and problem-solving. Skilled in various programming languages and eager to apply theoretical knowledge to real-world projects. Seeking opportunities to contribute and learn in a dynamic tech environment. Open to new challenges and collaborations.
+As a fresh graduate with a Bachelor's degree in Computer Science from KIET, with a passion for coding and problem-solving. Skilled in various programming languages and eager to apply theoretical knowledge to real-world projects. Seeking opportunities to contribute and learn in a dynamic tech environment. Open to new challenges and collaborations.
 
 
 ## 🌐 Socials:
